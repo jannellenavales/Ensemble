@@ -1,0 +1,67 @@
+   
+    body {
+        background-color: #ECE2D0;
+        ;
+    }
+    .returnbar
+    {
+    position: absolute;
+    width: 816px;
+    height: 188px;
+    left: 120px;
+    top: -72.5px;
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 33px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #302B27;
+    
+    }
+
+    .side
+    {
+        font-family: 'Castoro', serif;
+        color: #302B27;
+    }
+
+    .rightside
+    {
+        font-family: 'Castoro', serif;
+        color: #302B27;
+        text-align: right;
+    }
+
+
+    .photodefault
+    {
+        width: 175px;height: 175px;
+    }
+   
+    #rectangle{
+        width:200px;
+        height: 650px;
+        background: #582c4d;
+        margin-bottom: 100px;
+    }
+
+    .rectangletext{
+        color: white;
+        border-bottom-color: #ECE2D0;
+    }
+
+    .rectanglecontent{
+        color: white;
+    }
+
+    p {
+        font-family: 'Roboto Mono';
+    }
+h1 {
+    font-family: 'Roboto Mono';
+}

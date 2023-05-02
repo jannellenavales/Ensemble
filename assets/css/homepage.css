@@ -1,0 +1,59 @@
+h1{
+position: absolute;
+width: 816px;
+height: 88px;
+left: 232px;
+top: 183px;
+
+font-family: 'Castoro';
+font-style: normal;
+font-weight: 400;
+font-size: 55px;
+line-height: 94px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #302B27;
+}
+
+body {
+    background-color: #ECE2D0;
+}
+.returnbar
+{
+position: absolute;
+width: 816px;
+height: 188px;
+left: 120px;
+top: -72.5px;
+font-family: 'Roboto Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 33px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+color: #302B27;
+
+}
+.btn-main{
+position: relative;
+width: 450px;
+height: 90px;
+font-family: 'Roboto Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 66px;
+display: center;
+color: #FFFFFF;
+background: #A26769;
+border-radius: 12px;
+border-color: #A26769;
+left: 332px;
+top: 343px;
+}
